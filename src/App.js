@@ -1,15 +1,18 @@
 import React from 'react'
 import GetData from './getDataFromSheets'
-import './App.css'
+//import getselectData from './selectData'
+import './flashCard.css'
 
 function App() {
-  
-
+ 
     return (
+    <>
       <div className="container">
+           
             <GetData />
       </div>
-       
+
+    </>
        
     )
 }

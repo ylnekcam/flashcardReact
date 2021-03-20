@@ -7,8 +7,10 @@ export default function FlashCard({flashcard}) {
          
         <div 
             className={`card ${flip ? 'flip':''}`}
-            onClick={()=>setFlip(!flip)}
-        >
+            onClick={()=>setFlip(!flip)}>
+
+            <div className="cardInner">
+        
                 <div className="front">
                         {flashcard.Char}
                 </div>
@@ -19,6 +21,7 @@ export default function FlashCard({flashcard}) {
                         Eng: {flashcard.Eng}<br></br>
 
                 </div>
+            </div>
                
                 
         </div>
