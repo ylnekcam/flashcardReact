@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ZhongwenFlashCard/static/css/main.edd015ce.chunk.css",
-    "main.js": "/ZhongwenFlashCard/static/js/main.283ffed8.chunk.js",
-    "main.js.map": "/ZhongwenFlashCard/static/js/main.283ffed8.chunk.js.map",
-    "runtime-main.js": "/ZhongwenFlashCard/static/js/runtime-main.d0c5eb6b.js",
-    "runtime-main.js.map": "/ZhongwenFlashCard/static/js/runtime-main.d0c5eb6b.js.map",
-    "static/js/2.2dde6602.chunk.js": "/ZhongwenFlashCard/static/js/2.2dde6602.chunk.js",
-    "static/js/2.2dde6602.chunk.js.map": "/ZhongwenFlashCard/static/js/2.2dde6602.chunk.js.map",
-    "index.html": "/ZhongwenFlashCard/index.html",
-    "static/css/main.edd015ce.chunk.css.map": "/ZhongwenFlashCard/static/css/main.edd015ce.chunk.css.map",
-    "static/js/2.2dde6602.chunk.js.LICENSE.txt": "/ZhongwenFlashCard/static/js/2.2dde6602.chunk.js.LICENSE.txt"
+    "main.css": "/ylnekcam/flashcardReact.git/static/css/main.edd015ce.chunk.css",
+    "main.js": "/ylnekcam/flashcardReact.git/static/js/main.283ffed8.chunk.js",
+    "main.js.map": "/ylnekcam/flashcardReact.git/static/js/main.283ffed8.chunk.js.map",
+    "runtime-main.js": "/ylnekcam/flashcardReact.git/static/js/runtime-main.749104ac.js",
+    "runtime-main.js.map": "/ylnekcam/flashcardReact.git/static/js/runtime-main.749104ac.js.map",
+    "static/js/2.2dde6602.chunk.js": "/ylnekcam/flashcardReact.git/static/js/2.2dde6602.chunk.js",
+    "static/js/2.2dde6602.chunk.js.map": "/ylnekcam/flashcardReact.git/static/js/2.2dde6602.chunk.js.map",
+    "index.html": "/ylnekcam/flashcardReact.git/index.html",
+    "static/css/main.edd015ce.chunk.css.map": "/ylnekcam/flashcardReact.git/static/css/main.edd015ce.chunk.css.map",
+    "static/js/2.2dde6602.chunk.js.LICENSE.txt": "/ylnekcam/flashcardReact.git/static/js/2.2dde6602.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d0c5eb6b.js",
+    "static/js/runtime-main.749104ac.js",
     "static/js/2.2dde6602.chunk.js",
     "static/css/main.edd015ce.chunk.css",
     "static/js/main.283ffed8.chunk.js"
