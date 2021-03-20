@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/flashcardReact/static/css/main.edd015ce.chunk.css",
-    "main.js": "/flashcardReact/static/js/main.283ffed8.chunk.js",
-    "main.js.map": "/flashcardReact/static/js/main.283ffed8.chunk.js.map",
+    "main.css": "/flashcardReact/static/css/main.e0ef5bf3.chunk.css",
+    "main.js": "/flashcardReact/static/js/main.3e80b529.chunk.js",
+    "main.js.map": "/flashcardReact/static/js/main.3e80b529.chunk.js.map",
     "runtime-main.js": "/flashcardReact/static/js/runtime-main.e8ddb727.js",
     "runtime-main.js.map": "/flashcardReact/static/js/runtime-main.e8ddb727.js.map",
     "static/js/2.2dde6602.chunk.js": "/flashcardReact/static/js/2.2dde6602.chunk.js",
     "static/js/2.2dde6602.chunk.js.map": "/flashcardReact/static/js/2.2dde6602.chunk.js.map",
     "index.html": "/flashcardReact/index.html",
-    "static/css/main.edd015ce.chunk.css.map": "/flashcardReact/static/css/main.edd015ce.chunk.css.map",
+    "static/css/main.e0ef5bf3.chunk.css.map": "/flashcardReact/static/css/main.e0ef5bf3.chunk.css.map",
     "static/js/2.2dde6602.chunk.js.LICENSE.txt": "/flashcardReact/static/js/2.2dde6602.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e8ddb727.js",
     "static/js/2.2dde6602.chunk.js",
-    "static/css/main.edd015ce.chunk.css",
-    "static/js/main.283ffed8.chunk.js"
+    "static/css/main.e0ef5bf3.chunk.css",
+    "static/js/main.3e80b529.chunk.js"
   ]
 }
