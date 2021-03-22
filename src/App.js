@@ -1,7 +1,7 @@
 import React from 'react'
 import GetData from './getDataFromSheets'
 //import getselectData from './selectData'
-import './flashCard.css'
+import './App.css'
 
 function App() {
  

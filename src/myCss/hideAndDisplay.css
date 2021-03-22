@@ -1,0 +1,8 @@
+.back {
+  display: none;
+}
+
+.card.flip {
+  display: block;
+  color: red;
+}
