@@ -13,7 +13,7 @@
   box-shadow: 0 0 5px 2px rgba(0, 0, 0, 0.3);
   background-color: white;
   transform-style: preserve-3d;
-  height: 150px;
+  height: 180px;
   transition: 150ms;
   cursor: pointer;
   transform: perspective(1000px) rotateY(var(--rotate-y, 0))
@@ -21,7 +21,7 @@
 }
 
 .cardContainer .tittle {
-  font-size: 70px;
+  font-size: 60px;
   margin: 0;
   position: absolute;
   top: 40%;
@@ -29,15 +29,31 @@
   transform: translateY(-50%);
 }
 
-.cardContainer .content {
+.cardContainer .content,
+.contentEng,
+.contentPin {
   display: none;
 }
 
-.cardContainer .content.show {
+.cardContainer .content.show,
+.contentEng.show,
+.contentPin.show {
   display: block;
   margin: 0;
   position: absolute;
-  top: 80%;
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
+}
+.content.show {
+  top: 70%;
+}
+.contentEng.show {
+  top: 15%;
+  color: darkgreen;
+  font-size: 20px;
+}
+
+.contentPin.show {
+  top: 85%;
+  color: rgb(3, 30, 80);
 }

@@ -12,9 +12,18 @@ export default function FlashCard({flashcard}) {
             </div>
 
             <div className={`content ${show ? 'show':''}`}>
-                    <span>zh/pinyin: {flashcard.Zhuyin} {flashcard.Pinyin}</span><br />
-                    <span>Eng: {flashcard.Eng}</span><br />
+                    {flashcard.Zhuyin}
                    
+                         
+            </div>
+            
+            <div className={`contentPin ${show ? 'show':''}`}>
+                    {flashcard.Pinyin}
+                         
+            </div>
+
+            <div className={`contentEng ${show ? 'show':''}`}>
+            <span>{flashcard.Eng}</span>
             </div>
    </div> 
 
